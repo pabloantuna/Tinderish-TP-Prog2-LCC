@@ -1,0 +1,5 @@
+Lucas, Gomez, Rosario, 16, M, M
+Mariano, Lopez, Rosario, 15, M, M
+Federico, Perez, Rosario, 17, M, M
+Tomas, Peralta, Rosario, 15, M, M
+Agustin, Mata, Rosario, 16, M, M

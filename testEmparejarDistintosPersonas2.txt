@@ -1,0 +1,6 @@
+Maria, Gomez, Rosario, 16, M, F
+
+Mariana, Lopez, Rosario, 15, F, M
+Federica, Perez, Rosario, 17, F, M
+Lucia, Peralta, Rosario, 15, F, M
+Agustina, Mata, Rosario, 16, F, M
